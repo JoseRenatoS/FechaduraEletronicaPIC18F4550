@@ -1,0 +1,7 @@
+# DESCRIÇÃO DO PROJETO
+
+O projeto de fechadura eletrônica deve ser baseado em microcontroladores PIC e conter os seguintes componentes: um teclado matricial (4x4 ou 4x3), um display LCD 16x2, um buzzer, um sistema de fechadura que pode ser um relé ou um servomotor e elementos de eletrônica analógica para proteção, entretanto, deve haver nele no mínimo, um regulador de tensão de 5V.
+Seu funcionamento deve ocorrer da seguinte maneira: o usuário deve digitar no teclado matricial uma senha e pressionar um botão de confirmação. Se a senha digitada for correta, circuito deverá realizar as seguintes tarefas: o buzzer deverá emitir 2 bips curtos, o display LCD deverá exibir uma mensagem de sucesso e um sinal precisa ser enviado para o dispositivo de fechadura, que o abrirá. Caso a senha esteja incorreta, a fechadura não abrirá, o display LCD informará que a senha incorreta e o buzzer irá disparar um bip longo.
+
+## OBJETIVO
+O objetivo principal é montar e programar um circuito de fechadura eletrônica, com os componentes obrigatórios (ver em Descrição do Hardware) e com as funcionalidades exigidas no software (ver em Descrição do Software)
