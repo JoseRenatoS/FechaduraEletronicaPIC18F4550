@@ -34,7 +34,7 @@ O relatório do projeto (PIN - Relatório.pdf) inclui um esquema do circuito, o 
 
 ## :hammer: Funcionalidades do projeto
 
-- `Sistema de Iluminação Interna`: 
+- 
 <br><br><br><br><br>
 
 
