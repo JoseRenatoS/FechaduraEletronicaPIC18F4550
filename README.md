@@ -42,9 +42,9 @@ O relatório do projeto (PIN - Relatório.pdf) inclui um esquema do circuito, o 
 ## :computer: Tecnologias Utilizadas
 
 - **Linguagem C**: usada para a programação do microcontrolador.
-- **MikroC PRO for PIC**: software usado para programar o microcontrolador PIC18F4550 em Linguagem C.
+- **MikroC PRO for PIC**: software utilizado para programar o microcontrolador PIC18F4550 em Linguagem C.
 - **Proteus 8 Professional**: usado simular o protótipo.
-- **PICKit 3**: usado para transferir o código para o microcontrolador PIC18F4550.
+- **PICKit 3**: utilizado para transferir o código para o microcontrolador PIC18F4550.
 <br><br><br><br><br>
 
 ## :link: Diagrama de Conexão
