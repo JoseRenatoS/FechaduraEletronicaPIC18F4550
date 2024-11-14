@@ -9,7 +9,7 @@
 ## :round_pushpin: Índice 
 * [:house: Descrição do Projeto](#house-descrição-do-projeto)
 * [:hammer: Funcionalidades do projeto](#hammer-funcionalidades-do-projeto)
-* [:computer: Pré-Requisitos](#computer-pré-requisitos)
+* [:computer: Tecnologias Utilizadas](#computer-tecnologias-utilizadas)
 * [:link: Diagrama de Conexão](#link-diagrama-de-conexão)
 * [:toolbox: Materiais & Custos](#toolbox-materiais--custos)
 * [:memo: Licença](#memo-licença)
@@ -39,11 +39,11 @@ O relatório do projeto (PIN - Relatório.pdf) inclui um esquema do circuito, o 
 
 
 
-## :computer: Pré-requisitos
+## :computer: Tecnologias Utilizadas
 
-Para utilizar o projeto, alguns requisitos são necessário:
-
-- 
+- **Linguagem C**: linguagem utilizada no projeto.
+- **MikroC PRO for PIC**: usado para realizar a programação do microcontrolador PIC18F4550.
+- **Proteus 8 Professional**:  usado para realizar a simulação do protótipo.
 <br><br><br><br><br>
 
 ## :link: Diagrama de Conexão
