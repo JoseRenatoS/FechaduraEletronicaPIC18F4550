@@ -85,6 +85,8 @@ O relatório do projeto (PIN - Relatório.pdf) inclui um esquema do circuito, o 
 
 
 
+
 ## :memo: Licença
+Este projeto está licenciado nos termos da licença...
 <br><br><br><br><br>
 
