@@ -8,7 +8,6 @@
 
 ## :round_pushpin: Índice 
 * [:house: Descrição do Projeto](#house-descrição-do-projeto)
-* [:hammer: Funcionalidades do projeto](#hammer-funcionalidades-do-projeto)
 * [:computer: Tecnologias Utilizadas](#computer-tecnologias-utilizadas)
 * [:link: Diagrama de Conexão](#link-diagrama-de-conexão)
 * [:toolbox: Materiais & Custos](#toolbox-materiais--custos)
@@ -30,12 +29,6 @@ O relatório do projeto (PIN - Relatório.pdf) inclui um esquema do circuito, o 
 <p align="center">Figura 1: Protótipo Completo da Fechadura Eletrônica</p>
 <br><br><br><br>
 
-
-
-## :hammer: Funcionalidades do projeto
-
-- 
-<br><br><br><br><br>
 
 
 
@@ -80,13 +73,16 @@ O relatório do projeto (PIN - Relatório.pdf) inclui um esquema do circuito, o 
 | **TOTAL**              ||| **R$ 190,73** |
 <br>
 
-:exclamation: **OBS:** *os valores dos componentes são aproximados, eles podem sofrer alterações a depender de diversos fatores. Como, por exemplo: o local onde será comprado os componentes.*
+
+> [!NOTE]
+> *Os valores dos componentes são aproximados, eles podem sofrer alterações a depender de diversos fatores. Como, por exemplo: o local onde será comprado os componentes.*
+
 <br><br><br><br><br>
 
 
 
 
 ## :memo: Licença
-Este projeto está licenciado nos termos da licença...
+Este projeto está licenciado nos termos da [MIT License](https://github.com/JoseRenatoS/FechaduraEletronicaPIC18F4550/blob/main/LICENSE).
 <br><br><br><br><br>
 
